@@ -1,6 +1,6 @@
 # Turning Vision Into Design, And Then Bringing It To Life With Code.
 
-## React Website Build  Crypto Screener App with Tailwind CSS 
+## React Website Build Crypto desktop web App with Tailwind CSS 
 ## This project demonstrates my ability to:
 - Implement designs accurately.
 - Showcase proficiency in Next.js.
