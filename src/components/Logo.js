@@ -11,8 +11,8 @@ const Logo = () => {
 text-lg text-cyan flex items-center
      "
     >
-      <img src={logoSvg} alt="CryptobWorku" />
-      <span>CryptobWorku</span>
+      <img src={logoSvg} alt="CryptoBiruk" />
+      <span>CryptoBiruk</span>
     </Link>
   );
 };
